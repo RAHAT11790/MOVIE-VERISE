@@ -7,7 +7,7 @@
 // --- Branding ---
 export const SITE_NAME = import.meta.env.VITE_SITE_NAME || "MOVIE VERISE";
 export const SITE_DESCRIPTION = import.meta.env.VITE_SITE_DESCRIPTION || "Your ultimate series and movies.";
-export const SITE_URL = import.meta.env.VITE_SITE_URL || "https://rsanime03.lovable.app";
+export const SITE_URL = import.meta.env.VITE_SITE_URL || "https://movie-verise.vercel.app";
 export const SITE_ICON_URL = import.meta.env.VITE_SITE_ICON_URL || "https://i.ibb.co.com/twPb8ZD3/IMG-20260406-145251-962.png";
 
 // --- Telegram ---
