@@ -24,21 +24,21 @@ export interface BrandingConfig {
 }
 
 const DEFAULT_BRANDING: BrandingConfig = {
-  siteName: "RS ANIME",
+  siteName: "MOVIE VERISE",
   siteDescription: "Your ultimate destination for watching anime series and movies.",
   siteTagline: "Premium Anime Streaming",
-  loginTitle: "RS ANIME",
+  loginTitle: "MOVIE VERISE",
   loginSubtitle: "Premium Anime Streaming",
-  premiumTitle: "RS ANIME Premium",
+  premiumTitle: "MOVIE VERISE Premium",
   footerText: "Unlimited Anime Series & Movies",
-  footerCopyright: "© 2026 RS ANIME. All rights reserved.",
-  splashText: "RS ANIME",
-  adminTitle: "RS ANIME Admin",
-  aboutTitle: "About RS ANIME",
+  footerCopyright: "© 2026 MOVIE VERISE. All rights reserved.",
+  splashText: "MOVIE VERISE",
+  adminTitle: "MOVIE VERISE Admin",
+  aboutTitle: "About MOVIE VERISE",
   logoUrl: "",
   playerLogoUrl: "",
-  playerName: "RS ANIME PLAYER",
-  rsCardLabel: "RS",
+  playerName: "MOVIE VERISE PLAYER",
+  rsCardLabel: "MV",
   anCardLabel: "AN",
 };
 
